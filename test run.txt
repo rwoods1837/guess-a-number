@@ -1,0 +1,68 @@
+   _______  __    __   _______     _______.     _______.        ___         .__   __.  __    __  .___  ___. .______    _______ .______                       ___       __   __  
+  /  _____||  |  |  | |   ____|   /       |    /       |       /   \        |  \ |  | |  |  |  | |   \/   | |   _  \  |   ____||   _  \                     /   \     |  | |  | 
+ |  |  __  |  |  |  | |  |__     |   (----`   |   (----`      /  ^  \       |   \|  | |  |  |  | |  \  /  | |  |_)  | |  |__   |  |_)  |                   /  ^  \    |  | |  | 
+ |  | |_ | |  |  |  | |   __|     \   \        \   \         /  /_\  \      |  . `  | |  |  |  | |  |\/|  | |   _  <  |   __|  |      /                   /  /_\  \   |  | |  | 
+ |  |__| | |  `--'  | |  |____.----)   |   .----)   |       /  _____  \     |  |\   | |  `--'  | |  |  |  | |  |_)  | |  |____ |  |\  \____.__ __ __     /  _____  \  |  | |__| 
+  \______|  \______/  |_______|_______/    |_______/       /__/     \__\    |__| \__|  \______/  |__|  |__| |______/  |_______|| _| `._____(__|__|__)   /__/     \__\ |__| (__) 
+
+WHAT BE THOUST NAME? Ryan
+
+Create a low value: 1
+
+Create a High Value: 125
+
+OK, Ryan, Think of a number in between 1 and 125, then press enter...
+
+For attempt # 1 is your number 63?
+
+Was I too high/too low/ or correct  too high
+
+For attempt # 2 is your number 32?
+
+Was I too high/too low/ or correct  too low
+
+For attempt # 3 is your number 47?
+
+Was I too high/too low/ or correct  correct
+
+ ____    ____  _______  _______ .___________. 
+ \   \  /   / |   ____||   ____||           | 
+  \   \/   /  |  |__   |  |__   `---|  |----` 
+   \_    _/   |   __|  |   __|      |  |     
+     |  |     |  |____ |  |____     |  |     
+     |__|     |_______||_______|    |__|     
+
+lol @Ryan, i is so smert, i got it in 3 attempts.
+
+Would you like to play again? (y/n) y
+
+Create a low value: 1
+
+Create a High Value: 24
+
+OK, Ryan, Think of a number in between 1 and 24, then press enter...
+
+For attempt # 1 is your number 12?
+
+Was I too high/too low/ or correct  too low
+
+For attempt # 2 is your number 18?
+
+Was I too high/too low/ or correct  too high
+
+For attempt # 3 is your number 15?
+
+Was I too high/too low/ or correct  correct
+
+ ____    ____  _______  _______ .___________. 
+ \   \  /   / |   ____||   ____||           | 
+  \   \/   /  |  |__   |  |__   `---|  |----` 
+   \_    _/   |   __|  |   __|      |  |     
+     |  |     |  |____ |  |____     |  |     
+     |__|     |_______||_______|    |__|     
+
+lol @Ryan, i is so smert, i got it in 3 attempts.
+
+Would you like to play again? (y/n) n
+
+this awesome game was coded by Ryan on 9/29/17
